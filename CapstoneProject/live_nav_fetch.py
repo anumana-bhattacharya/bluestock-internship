@@ -1,3 +1,25 @@
+"""
+live_nav_fetch.py
+-----------------
+Day 1 — Fetch live NAV history from the AMFI-backed mfapi.in API.
+
+Endpoint shape (https://api.mfapi.in/mf/<scheme_code>):
+    {
+      "meta": {"fund_house", "scheme_type", "scheme_category",
+               "scheme_code", "scheme_name", "isin_growth", "isin_div_reinvestment"},
+      "data": [ {"date": "DD-MM-YYYY", "nav": "1234.56"}, ... ],   # newest first
+      "status": "SUCCESS"
+    }
+
+Outputs (written to ./data/raw_nav/):
+    nav_<code>_<slug>.csv     one tidy file per scheme
+    nav_meta.csv              one row of metadata per scheme
+    nav_combined.csv          all schemes stacked (long format)
+
+Run:
+    python live_nav_fetch.py
+"""
+
 from __future__ import annotations
 
 import json
