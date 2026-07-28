@@ -1,0 +1,22 @@
+winsor:
+  lower_quantile: 0.10
+  upper_quantile: 0.90
+health_bands:
+  - {minimum: 80, label: Excellent}
+  - {minimum: 65, label: Good}
+  - {minimum: 50, label: Average}
+  - {minimum: 35, label: Weak}
+  - {minimum: 0, label: Poor}
+valuation:
+  caution_multiple: 1.50
+  discount_multiple: 0.70
+cashflow:
+  cfo_high_quality_min: 1.0
+  cfo_moderate_min: 0.5
+  capex_asset_light_max_pct: 3.0
+  capex_moderate_max_pct: 8.0
+  cagr_years: 5
+reporting:
+  minimum_pdf_bytes: 1000
+  minimum_tearsheet_bytes: 30000
+  chart_history_years: 10
