@@ -1,0 +1,23 @@
+presets:
+  Quality Compounder:
+    - {field: health_score, op: gte, value: 65}
+    - {field: return_on_equity_pct, op: gte, value: 15}
+    - {field: operating_profit_margin_pct, op: gte, value: 12}
+  Value Pick:
+    - {field: health_score, op: gte, value: 50}
+    - {field: pe_ratio, op: lte, value: 25}
+    - {field: pb_ratio, op: lte, value: 5}
+  Growth Accelerator:
+    - {field: revenue_cagr_3y, op: gte, value: 10}
+    - {field: pat_cagr_3y, op: gte, value: 10}
+    - {field: return_on_equity_pct, op: gte, value: 10}
+  Dividend Champion:
+    - {field: dividend_payout_ratio_pct, op: gte, value: 20}
+    - {field: dividend_yield_pct, op: gte, value: 1}
+    - {field: health_score, op: gte, value: 50}
+  Debt-Free Blue Chip:
+    - {field: debt_to_equity, op: lte, value: 0.10}
+    - {field: health_score, op: gte, value: 50}
+  Turnaround Watch:
+    - {field: pat_cagr_3y_flag, op: eq, value: TURNAROUND}
+    - {field: return_on_equity_pct, op: gt, value: 0}

@@ -1,0 +1,52 @@
+{
+  "analysis_manual_reviews": 1,
+  "cashflow_companies": 92,
+  "cluster_distribution": {
+    "0": 23,
+    "1": 24,
+    "2": 17,
+    "3": 12,
+    "4": 16
+  },
+  "company_pdf_count": 92,
+  "computed_ratio_companies": 92,
+  "computed_ratio_rows": 1073,
+  "distress_alerts": 13,
+  "foreign_key_violations": 0,
+  "generated_narratives": 545,
+  "health_band_distribution": {
+    "Average": 40,
+    "Excellent": 1,
+    "Good": 7,
+    "Poor": 12,
+    "Weak": 32
+  },
+  "minimum_company_pdf_bytes": 155022,
+  "narrative_companies": 92,
+  "narrative_con_coverage": 92,
+  "narrative_pro_coverage": 92,
+  "orphan_rows_quarantined": 438,
+  "parse_failures": 13,
+  "peer_group_count": 11,
+  "portfolio_pdf_count": 1,
+  "portfolio_stat_metrics": 32,
+  "ratio_crosscheck_matched_rows": 1041,
+  "ratio_mean_absolute_divergence": 0.0025152092337650156,
+  "screener_counts": {
+    "Debt-Free Blue Chip": 23,
+    "Dividend Champion": 29,
+    "Growth Accelerator": 54,
+    "Quality Compounder": 6,
+    "Turnaround Watch": 5,
+    "Value Pick": 1
+  },
+  "sector_count": 10,
+  "sector_pdf_count": 10,
+  "skipped_tearsheet_count": 0,
+  "source_rows_in": 12892,
+  "source_rows_loaded": 12108,
+  "source_rows_rejected": 784,
+  "ttm_rows_rejected": 100,
+  "valuation_companies": 92,
+  "xlsx_artifact_count": 4
+}

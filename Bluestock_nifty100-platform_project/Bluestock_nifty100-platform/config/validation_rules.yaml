@@ -1,0 +1,15 @@
+rules:
+  - {id: DQ001, field: company_id, severity: CRITICAL, action: REJECT, description: Missing or invalid NSE ticker}
+  - {id: DQ002, field: year, severity: CRITICAL, action: REJECT, description: Missing or invalid fiscal/calendar year or date}
+  - {id: DQ003, field: year, severity: CRITICAL, action: REJECT, description: TTM row cannot enter a fiscal-year key}
+  - {id: DQ004, field: year, severity: WARNING, action: KEEP_FLAGGED, description: Partial fiscal period such as 9m or fractional year}
+  - {id: DQ005, field: year, severity: INFO, action: COUNT, description: Bare year assumed to end in March}
+  - {id: DQ006, field: configured critical fields, severity: CRITICAL, action: REJECT, description: Null critical field}
+  - {id: DQ007, field: company_name, severity: CRITICAL, action: REJECT, description: Empty company name}
+  - {id: DQ008, field: company_id, severity: CRITICAL, action: REJECT_QUARANTINE, description: Broken company foreign key}
+  - {id: DQ009, field: configured non-negative fields, severity: WARNING, action: KEEP_FLAGGED, description: Negative value where non-negative expected}
+  - {id: DQ010, field: configured positive fields, severity: WARNING, action: KEEP_FLAGGED, description: Non-positive value where positive expected}
+  - {id: DQ011, field: URL fields, severity: WARNING, action: KEEP_FLAGGED, description: Missing or invalid HTTP(S) URL}
+  - {id: DQ012, field: table primary key, severity: WARNING, action: DEDUP_KEEP_LAST, description: Duplicate primary key}
+  - {id: DQ013, field: numeric/date fields, severity: CRITICAL, action: REJECT, description: Invalid value type after normalization}
+  - {id: DQ014, field: company_id, severity: WARNING, action: KEEP_FLAGGED, description: Master company missing from a core statement table}

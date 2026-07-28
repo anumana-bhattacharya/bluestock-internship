@@ -1,0 +1,1394 @@
+table,rule_id,severity,company_id,year,field,issue,action
+companies,DQ011,WARNING,TVSMOTOR,,website,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+companies,DQ011,WARNING,TVSMOTOR,,nse_profile,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+companies,DQ011,WARNING,TVSMOTOR,,bse_profile,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+profit_and_loss,DQ003,CRITICAL,ABB,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ADANIENSOL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ADANIENT,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ADANIGREEN,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ADANIPORTS,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ADANIPORTS,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ADANIPOWER,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,AMBUJACEM,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,APOLLOHOSP,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ASIANPAINT,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ATGL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BAJAJ-AUTO,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,AXISBANK,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BAJAJFINSV,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BAJAJHLDNG,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BAJFINANCE,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BANKBARODA,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BHARTIARTL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BEL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BHEL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BOSCHLTD,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BPCL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,BRITANNIA,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,CANBK,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,CHOLAFIN,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,CIPLA,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,COALINDIA,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,DABUR,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,DIVISLAB,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,DLF,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,DMART,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,DRREDDY,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,EICHERMOT,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,GAIL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,GODREJCP,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,GRASIM,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HAL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HAVELLS,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HCLTECH,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HDFCBANK,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HDFCLIFE,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HEROMOTOCO,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HINDALCO,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,HINDUNILVR,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ICICIBANK,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ICICIGI,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ICICIPRULI,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,INDUSINDBK,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,INFY,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,IOC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,IRCTC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,IRFC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ITC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,JINDALSTEL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,JIOFIN,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,JSWENERGY,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,JSWSTEEL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,KOTAKBANK,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,LICI,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,LODHA,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,LT,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,LTIM,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,M&M,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,MARUTI,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,MOTHERSON,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,NAUKRI,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,NESTLEIND,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,NHPC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,NTPC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ONGC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,PFC,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,PIDILITIND,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,PNB,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,POWERGRID,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,RECLTD,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,RELIANCE,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,SBILIFE,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,SBIN,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,SHREECEM,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,SHRIRAMFIN,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,SUNPHARMA,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TATACONSUM,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TATAMOTORS,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TATAPOWER,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TATASTEEL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TCS,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TECHM,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TITAN,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TORNTPHARM,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TRENT,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,TVSMOTOR,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ULTRACEMCO,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,UNIONBANK,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,UNITDSPR,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,VBL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,VEDL,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,WIPRO,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ZOMATO,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,ZYDUSLIFE,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ003,CRITICAL,INDIGO,,year,trailing-twelve-month row,REJECT
+profit_and_loss,DQ004,WARNING,HCLTECH,2016-03,year,partial-period source label,KEEP_FLAGGED
+profit_and_loss,DQ004,WARNING,SHREECEM,2016-03,year,partial-period source label,KEEP_FLAGGED
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ULTRACEMCO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNIONBANK,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,UNITDSPR,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2012-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2013-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2014-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2015-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2016-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2017-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2018-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2019-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2020-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2021-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2022-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,2023-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VBL,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,VEDL,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,WIPRO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZOMATO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ008,CRITICAL,ZYDUSLIFE,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+profit_and_loss,DQ009,WARNING,HDFCLIFE,2015-03,expenses,negative value where non-negative expected,KEEP_FLAGGED
+profit_and_loss,DQ009,WARNING,PFC,2024-03,expenses,negative value where non-negative expected,KEEP_FLAGGED
+profit_and_loss,DQ009,WARNING,RECLTD,2024-03,expenses,negative value where non-negative expected,KEEP_FLAGGED
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+profit_and_loss,DQ012,WARNING,ADANIPORTS,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ004,WARNING,ZYDUSLIFE,2024-09,year,fractional bare year interpreted as partial period,KEEP_FLAGGED
+balance_sheet,DQ004,WARNING,ZOMATO,2024-09,year,fractional bare year interpreted as partial period,KEEP_FLAGGED
+balance_sheet,DQ004,WARNING,WIPRO,2024-09,year,fractional bare year interpreted as partial period,KEEP_FLAGGED
+balance_sheet,DQ004,WARNING,VEDL,2024-09,year,fractional bare year interpreted as partial period,KEEP_FLAGGED
+balance_sheet,DQ004,WARNING,UNITDSPR,2024-09,year,fractional bare year interpreted as partial period,KEEP_FLAGGED
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2013-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2014-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2015-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2016-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2017-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2018-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2019-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2020-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2021-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2022-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2023-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZYDUSLIFE,2024-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZOMATO,2018-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZOMATO,2019-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZOMATO,2020-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZOMATO,2021-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZOMATO,2022-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZOMATO,2023-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,ZOMATO,2024-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2013-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2014-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2015-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2016-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2017-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2018-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2019-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2020-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2021-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2022-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2023-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,WIPRO,2024-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2013-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2014-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2015-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2016-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2017-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2018-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2019-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2020-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2021-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2022-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2023-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,VEDL,2024-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2013-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2014-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2015-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2016-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2017-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2018-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2019-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2020-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2021-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2022-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2023-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ005,INFO,UNITDSPR,2024-03,year,bare year assumed March end,COUNT
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZYDUSLIFE,2024-09,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ZOMATO,2024-09,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,WIPRO,2024-09,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,VEDL,2024-09,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNITDSPR,2024-09,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,UNIONBANK,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ008,CRITICAL,ULTRACEMCO,2024-09,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+balance_sheet,DQ010,WARNING,ADANIENSOL,2014-03,total_assets,non-positive value where positive expected,KEEP_FLAGGED
+balance_sheet,DQ012,WARNING,ASIANPAINT,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2024-09,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,ASIANPAINT,2024-09,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2024-09,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,POWERGRID,2024-09,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2024-09,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ012,WARNING,TECHM,2024-09,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ008,CRITICAL,AGTL,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,AGTL,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,AGTL,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,AGTL,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,AGTL,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,AGTL,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,AGTL,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ULTRACEMCO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNIONBANK,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,UNITDSPR,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2012-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2013-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2014-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2015-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2016-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2017-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2018-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2019-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2020-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2021-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2022-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VBL,2023-12,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,VEDL,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,WIPRO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZOMATO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZOMATO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZOMATO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZOMATO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZOMATO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ008,CRITICAL,ZYDUSLIFE,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+cash_flow,DQ012,WARNING,TCS,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,ABB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,BAJAJ-AUTO,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+cash_flow,DQ012,WARNING,TCS,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+analysis,DQ008,CRITICAL,WIPRO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+analysis,DQ008,CRITICAL,WIPRO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+analysis,DQ008,CRITICAL,WIPRO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+analysis,DQ008,CRITICAL,WIPRO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ULTRACEMCO,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNIONBANK,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,UNITDSPR,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VBL,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,VEDL,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,WIPRO,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZOMATO,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2024,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2023,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2022,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2021,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2020,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2019,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2018,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2017,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2016,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2015,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2014,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2013,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2012,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2011,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2010,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ008,CRITICAL,ZYDUSLIFE,2009,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+documents,DQ011,WARNING,ADANIENSOL,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENSOL,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENSOL,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENSOL,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENSOL,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENSOL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENSOL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENT,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENT,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIENT,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIGREEN,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPORTS,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPOWER,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPOWER,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPOWER,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPOWER,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPOWER,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ADANIPOWER,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,AMBUJACEM,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,AMBUJACEM,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,AMBUJACEM,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,AMBUJACEM,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,AMBUJACEM,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,APOLLOHOSP,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,APOLLOHOSP,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,APOLLOHOSP,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,APOLLOHOSP,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ASIANPAINT,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ASIANPAINT,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ASIANPAINT,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ASIANPAINT,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ATGL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,AXISBANK,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,AXISBANK,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJAJ-AUTO,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJAJ-AUTO,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJAJ-AUTO,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJAJFINSV,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJAJFINSV,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJAJHLDNG,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJAJHLDNG,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJFINANCE,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BAJFINANCE,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BANKBARODA,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BANKBARODA,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BEL,2022,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BEL,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BEL,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BEL,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BEL,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BEL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BEL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHARTIARTL,2021,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHARTIARTL,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHARTIARTL,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHARTIARTL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHARTIARTL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHEL,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHEL,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHEL,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHEL,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHEL,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHEL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BHEL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BOSCHLTD,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BPCL,2022,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BPCL,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BPCL,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BPCL,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BPCL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BPCL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BRITANNIA,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,BRITANNIA,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,CANBK,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,CANBK,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,CHOLAFIN,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,CHOLAFIN,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,CHOLAFIN,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,CIPLA,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,CIPLA,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,COALINDIA,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DABUR,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DABUR,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DLF,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DLF,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DLF,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DLF,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DMART,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DRREDDY,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DRREDDY,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,DRREDDY,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,EICHERMOT,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,EICHERMOT,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,EICHERMOT,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,GAIL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,GAIL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,GODREJCP,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,GODREJCP,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,GRASIM,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,GRASIM,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HAL,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HAL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HAVELLS,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HAVELLS,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HCLTECH,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HCLTECH,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HCLTECH,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCBANK,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCBANK,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCBANK,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCBANK,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCLIFE,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCLIFE,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCLIFE,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCLIFE,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HDFCLIFE,2008,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HEROMOTOCO,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HEROMOTOCO,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HINDALCO,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HINDALCO,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HINDUNILVR,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,HINDUNILVR,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ICICIBANK,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ICICIGI,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ICICIPRULI,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ICICIPRULI,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ICICIPRULI,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDIGO,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDIGO,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDIGO,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDIGO,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDIGO,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDIGO,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDIGO,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDUSINDBK,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INDUSINDBK,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INFY,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,INFY,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IOC,2024,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IOC,2023,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IOC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IOC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRCTC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2020,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,IRFC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ITC,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ITC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ITC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JINDALSTEL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JINDALSTEL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2023,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2022,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2021,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2020,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JIOFIN,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JSWENERGY,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JSWENERGY,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JSWENERGY,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JSWSTEEL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,JSWSTEEL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2023,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2022,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2021,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,KOTAKBANK,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LICI,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2020,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2019,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2018,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LODHA,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LT,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LT,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,LTIM,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,M&M,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,M&M,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,MARUTI,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,MARUTI,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,MOTHERSON,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,MOTHERSON,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,NAUKRI,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,NAUKRI,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,NESTLEIND,2023,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,NHPC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,NHPC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,NTPC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,NTPC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ONGC,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ONGC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,ONGC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,PFC,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,PFC,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,PIDILITIND,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,PIDILITIND,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,PIDILITIND,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,PNB,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,PNB,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,POWERGRID,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,POWERGRID,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,RECLTD,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,RECLTD,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,RECLTD,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,RELIANCE,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,RELIANCE,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,RELIANCE,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2017,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2016,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2015,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2014,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2013,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBILIFE,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SBIN,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SHREECEM,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SHREECEM,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SHREECEM,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SHRIRAMFIN,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SHRIRAMFIN,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SHRIRAMFIN,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SIEMENS,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SIEMENS,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SUNPHARMA,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SUNPHARMA,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,SUNPHARMA,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATACONSUM,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATACONSUM,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATAMOTORS,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATAMOTORS,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATAPOWER,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATAPOWER,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATASTEEL,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TATASTEEL,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TCS,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TCS,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TECHM,2012,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TECHM,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TECHM,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TECHM,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TITAN,2011,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TITAN,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TITAN,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TORNTPHARM,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TORNTPHARM,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TRENT,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TRENT,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TVSMOTOR,2010,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ011,WARNING,TVSMOTOR,2009,annual_report,missing or invalid HTTP(S) URL,KEEP_FLAGGED
+documents,DQ012,WARNING,HAL,2011,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+documents,DQ012,WARNING,HAL,2011,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+pros_and_cons,DQ008,CRITICAL,WIPRO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+pros_and_cons,DQ008,CRITICAL,WIPRO,,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,ULTRACEMCO,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2013-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2014-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2015-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2016-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2017-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2018-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2019-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2020-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2021-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2022-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2023-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ008,CRITICAL,UNIONBANK,2024-03,company_id,company ticker absent from companies master,REJECT_QUARANTINE
+financial_ratios_reference,DQ012,WARNING,ABB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ABB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ADANIPORTS,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,ASIANPAINT,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,BAJAJ-AUTO,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,PNB,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,POWERGRID,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2013-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2014-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2015-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2016-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2017-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2018-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2019-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2020-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2021-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2022-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2023-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+financial_ratios_reference,DQ012,WARNING,TECHM,2024-03,"company_id,year",duplicate primary key,DEDUP_KEEP_LAST
+balance_sheet,DQ014,WARNING,SBIN,,company_id,master company has no retained rows in statement table,KEEP_FLAGGED
+cash_flow,DQ014,WARNING,ATGL,,company_id,master company has no retained rows in statement table,KEEP_FLAGGED
